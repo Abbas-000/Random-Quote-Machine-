@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
+.jumbotron, body{
+  background-color: #ADD8E6
+}
+.changeStyle {
+  text-align: center;
+  font-family: Lobster;
+}
+h5 {
+  margin-bottom: 25px;
+}
+.btn {
+  margin-top: 25px;
+  font-family: Dancing Script;
+}
+#box {
+  border: 5px solid #CD5C5C;
+  border-radius: 5px;
+  box-shadow: 10px 10px 5px #483D8B;
+  background: silver;
+  padding: 30px;
+  font-family: Dancing Script;
+  text-align: center;
+  margin: 25px auto;
+  max-width: auto;
+}
+img {
+  height: 15em;
+  width: 15em;
+  margin: 15px;
+}
+#quoteIcon {
+  float: left;
+  color: #CD5C5C;
+  margin: 5px;
+}
+i {
+  margin: 30px auto 0;
+}
+i:hover, .btn:hover {
+  cursor: pointer;
+  opacity: 0.9;
+}
